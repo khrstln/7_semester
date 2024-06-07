@@ -1,3 +1,6 @@
 [submodule "Algorithms"]
 	path = Algorithms
 	url = https://github.com/khrstln/Algorithms_7_sem
+[submodule "Numerical_methods_inverse_problems"]
+	path = Numerical_methods_inverse_problems
+	url = https://github.com/khrstln/Numerical-methods-for-solving-inverse-problems
